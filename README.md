@@ -2,6 +2,8 @@
 
 ## Batch: 20 April - 13 May, 2020
 
+## Link: https://github.com/OrangeVulture/projCert
+
 ###  Checklist for Jobs
 1. Install and configure puppet agent on the slave node (Job 1) 
 
