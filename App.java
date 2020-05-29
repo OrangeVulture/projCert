@@ -19,7 +19,7 @@ public class App {
 
                 WebDriver driver = new ChromeDriver(chromeOptions);
 
-                driver.get("http://3.86.85.161:32770");
+                driver.get("localhost:9076");
                 driver.findElement(By.id("About Us")).click();
 
                 Thread.sleep(1000);
